@@ -1,0 +1,10 @@
+1. programming it is for performing any task from the computer
+2. Computer knowns only two things 0 and 1
+3. or Machine Code or Low level language
+4. Py , java, c++ is High level language
+5. Source code to convert byte code to Interpreture then It is convert into Low level programming language
+6. Easy to read understand 
+7. Beginner Friendly 
+8. Concise code ---> use other people code 
+9. Open source languge , strong community
+10. Web DEV , AI , Data analytics , iOT 

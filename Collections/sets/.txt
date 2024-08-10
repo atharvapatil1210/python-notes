@@ -1,0 +1,9 @@
+Contains for storing multiple values in a variable
+
+Set items
+-> Unordered
+-> Immutable
+-> Unindexed
+-> Duplicates not allowed
+-> Any Datatypes
+-> Mix of differenet data types

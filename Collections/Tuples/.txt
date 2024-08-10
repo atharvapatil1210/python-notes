@@ -1,0 +1,8 @@
+Used to store multiple items in a variable
+
+Tuples items 
+-> Ordered
+-> Immutable
+-> Duplicates allowed 
+-> Any Datatypes
+-> Mix of differenet data types 

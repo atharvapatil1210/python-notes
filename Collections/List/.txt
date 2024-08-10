@@ -1,0 +1,31 @@
+List items 
+-> Indexed 
+-> Ordered
+-> Mutable 
+-> Duplicates allowed 
+-> Any Datatypes
+-> Mix of differenet data types
+
+Accessing items of a List
+-> Indexing
+-> Negative Indexing 
+-> Range of Indexes 
+-> Range of Negative Indexes
+
+Adding element to a List
+-> append()
+-> insert()
+-> extend()
+
+Removing elements from a List
+-> remove()
+-> pop()
+
+Changing items in a List
+-> At an Index
+-> In a range
+
+Sorting a List
+-> Ascending
+-> Descending
+
